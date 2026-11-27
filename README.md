@@ -29,7 +29,7 @@ sudo systemctl enable docker --now
 ### 1. Download the project
 
 ```bash
-git clone https://github.com/seguridadcero/super-insecure-bank.git
+git clone https://github.com/fernandoconislla/super-insecure-bank.git
 cd super-insecure-bank
 ```
 

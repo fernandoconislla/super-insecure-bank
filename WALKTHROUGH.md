@@ -4,7 +4,7 @@
 > This guide contains full spoilers for the labs.  
 > Use it only in local, controlled, and authorized environments.
 
-**Project:** Super Insecure Bank v1.0  
+**Project:** Super Insecure Bank v2.0  
 **Application:** intentionally vulnerable banking web application  
 **Objective:** practice web hacking and OWASP Top 10:2025  
 **Author:** Fernando Conislla
@@ -1588,6 +1588,6 @@ This causes exposure of stack traces, queries, internal paths, or implementation
 
 # Closing
 
-This walkthrough demonstrates how the 19 Super Insecure Bank v1.0 labs can be exploited in a practical and reproducible way.
+This walkthrough demonstrates how the 19 Super Insecure Bank v2.0 labs can be exploited in a practical and reproducible way.
 
 The goal of this guide is to support technical learning of OWASP Top 10:2025 through realistic scenarios inside a vulnerable banking application.
